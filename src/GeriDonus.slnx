@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GeriDonus.Api/GeriDonus.Api.csproj" />
+  <Project Path="GeriDonus.Data/GeriDonus.Data.csproj" />
+  <Project Path="GeriDonus.Service/GeriDonus.Service.csproj" />
+</Solution>
