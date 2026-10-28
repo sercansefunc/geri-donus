@@ -1,3 +1,15 @@
+USE master;
+
+DROP DATABASE IF EXISTS GeriDonus;
+
+CREATE DATABASE GeriDonus;
+
+GO
+
+USE GeriDonus;
+
+GO
+
 CREATE TABLE Aile (
     id  int  IDENTITY(1,1),
     CONSTRAINT PK_Aile PRIMARY KEY (id)
